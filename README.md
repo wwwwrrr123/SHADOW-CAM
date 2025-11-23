@@ -8,8 +8,8 @@ first install
 
 Second step
 
-* cd Direction
+* cd SHADOW-CAM
 
 third step
 
-* python SHADOW-CAM.py
+* python main.py
